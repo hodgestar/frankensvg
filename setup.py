@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="frankensvg",
-    version="0.0.1a0",
+    version="0.0.1",
     url='http://github.com/hodgestar/frankensvg',
     license='MIT',
     description="Generate an SVG from a YAML description",
